@@ -2,7 +2,6 @@
 -- PostgreSQL database dump
 --
 
-\restrict EqAWiBx0tPu6E5nSX1UuuZu0Abv9ON8hVlm390x31g5NH2CNHprJOMnri1iMwmu
 
 -- Dumped from database version 14.22 (Debian 14.22-1.pgdg13+1)
 -- Dumped by pg_dump version 17.10 (Debian 17.10-0+deb13u1)
@@ -880,5 +879,4 @@ ALTER TABLE ONLY app.watchlist
 -- PostgreSQL database dump complete
 --
 
-\unrestrict EqAWiBx0tPu6E5nSX1UuuZu0Abv9ON8hVlm390x31g5NH2CNHprJOMnri1iMwmu
 
