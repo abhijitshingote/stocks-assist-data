@@ -221,6 +221,7 @@ CREATE TABLE app.watchlist (
 --
 
 COPY app.alert_fires (key, "position", date, price, fired_at) FROM stdin;
+PLTR|168.12	0	2026-11-27	167.34500122070312	2026-11-27 09:50:10.609131-05
 \.
 
 
